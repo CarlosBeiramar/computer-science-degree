@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/ficha2_t1.dir/4blocos.c.o CMakeFiles/ficha2_t1.dir/main.c.o CMakeFiles/ficha2_t1.dir/menu.c.o CMakeFiles/ficha2_t1.dir/NIB.c.o  -o ficha2_t1 

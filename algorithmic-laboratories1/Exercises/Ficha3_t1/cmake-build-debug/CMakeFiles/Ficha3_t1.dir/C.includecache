@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/carlosbeiramar/CLionProjects/Ficha3_t1/histograma.c
+stdio.h
+-
+ctype.h
+-
+histograma.h
+/Users/carlosbeiramar/CLionProjects/Ficha3_t1/histograma.h
+
+/Users/carlosbeiramar/CLionProjects/Ficha3_t1/histograma.h
+

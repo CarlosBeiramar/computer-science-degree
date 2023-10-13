@@ -1,0 +1,146 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/COMUNS.c
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+string.h
+-
+estado.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/estado.h
+interpretadorBOT.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/interpretadorBOT.h
+bot.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/bot.h
+stack.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/stack.h
+
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/COMUNS.h
+
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/bot.c
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+string.h
+-
+estado.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/estado.h
+bot.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/bot.h
+stack.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/stack.h
+COMUNS.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/COMUNS.h
+interpretadorBOT.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/interpretadorBOT.h
+
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/bot.h
+
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/estado.c
+stdio.h
+-
+math.h
+-
+ctype.h
+-
+stdlib.h
+-
+estado.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/estado.h
+COMUNS.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/COMUNS.h
+interpretadorBOT.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/interpretadorBOT.h
+interpretador.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/interpretador.h
+stack.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/stack.h
+
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/estado.h
+
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/interpretador.c
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+interpretador.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/interpretador.h
+interpretadorBOT.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/interpretadorBOT.h
+estado.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/estado.h
+bot.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/bot.h
+stack.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/stack.h
+COMUNS.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/COMUNS.h
+
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/interpretador.h
+estado.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/estado.h
+
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/interpretadorBOT.c
+interpretadorBOT.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/interpretadorBOT.h
+estado.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/estado.h
+stack.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/stack.h
+interpretador.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/interpretador.h
+bot.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/bot.h
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+string.h
+-
+COMUNS.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/COMUNS.h
+
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/interpretadorBOT.h
+estado.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/estado.h
+
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/main.c
+stdio.h
+-
+estado.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/estado.h
+interpretador.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/interpretador.h
+
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/stack.c
+stack.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/stack.h
+estado.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/estado.h
+stack.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/stack.h
+stdio.h
+-
+stdlib.h
+-
+
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/stack.h
+estado.h
+/Users/carlosbeiramar/Desktop/LCC/ 1º ano/Laboratórios de algoritmia 1/LA1_PL1_1/estado.h
+

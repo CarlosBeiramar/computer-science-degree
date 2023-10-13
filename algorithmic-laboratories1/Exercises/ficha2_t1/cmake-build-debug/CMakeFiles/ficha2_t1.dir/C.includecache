@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/carlosbeiramar/CLionProjects/ficha2_t1/NIB.c
+stdio.h
+-
+string.h
+-
+ctype.h
+-
+stdlib.h
+-
+funções.h
+/Users/carlosbeiramar/CLionProjects/ficha2_t1/funções.h
+
+/Users/carlosbeiramar/CLionProjects/ficha2_t1/funções.h
+

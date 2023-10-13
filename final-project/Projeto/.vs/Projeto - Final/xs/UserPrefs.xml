@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{F217FC53-01AF-E7F3-A0F5-7EA874572219}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WrongIngredient.cs">
+    <Files>
+      <File FileName="Assets/Scripts/FruitFirst.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/HowToPlay.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/IngredChoosen.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/OKButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ReceitaConcl.cs" Line="5" Column="26" />
+      <File FileName="Assets/Scripts/RepeatedIngredient.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Trackables.cs" Line="69" Column="20" />
+      <File FileName="Assets/Scripts/UtenChoosen.cs" Line="5" Column="25" />
+      <File FileName="Assets/Scripts/UtenSecond.cs" Line="17" Column="1" />
+      <File FileName="Assets/Scripts/WrongIngredient.cs" Line="5" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Projeto - Final" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="WrongIngredient.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3578d970-51b8-43b1-8098-fc8941edbd91" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

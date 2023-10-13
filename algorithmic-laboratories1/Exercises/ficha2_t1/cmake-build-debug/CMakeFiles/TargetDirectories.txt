@@ -1,0 +1,3 @@
+/Users/carlosbeiramar/CLionProjects/ficha2_t1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/carlosbeiramar/CLionProjects/ficha2_t1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/carlosbeiramar/CLionProjects/ficha2_t1/cmake-build-debug/CMakeFiles/ficha2_t1.dir

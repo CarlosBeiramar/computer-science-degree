@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="RESULTADO" size="0.215000 0.250766" />
+    <ImageTarget name="AGUA" size="0.215000 0.250833" />
+    <ImageTarget name="OVOS" size="0.215000 0.250833" />
+    <ImageTarget name="Farinha" size="0.215000 0.250833" />
+    <ImageTarget name="ACUCAR" size="0.215000 0.250833" />
+    <ImageTarget name="Espremedor" size="0.215000 0.250905" />
+    <ImageTarget name="Banana" size="0.060000 0.074520" />
+    <ImageTarget name="Pessego" size="0.060000 0.074520" />
+    <ImageTarget name="Morango" size="0.060000 0.074520" />
+    <ImageTarget name="Forno" size="0.060000 0.074520" />
+    <ImageTarget name="Panela" size="0.060000 0.074520" />
+  </Tracking>
+</QCARConfig>
